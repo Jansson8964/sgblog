@@ -5,7 +5,7 @@ SpringBoot博客系统-包含前台后台-适合作为Java学习的第一练手�
 项目介绍： https://www.bilibili.com/video/BV1hq4y1F7zk
 视频讲解：https://www.bilibili.com/video/BV1hq4y1F7zk
 
-前端代码：https://github.com/sangengcaotang/SGBlog-front-end
+前端代码：https://gitee.com/sangengcaotang/sgblog-front-end
 
 如果能帮助到学习路上的你，请给个Star!
 
